@@ -6,7 +6,7 @@ A **modular and responsive React application** that lets users manage their dail
 
 ## 🖼️ App Preview
 
-![Todo App Screenshot](./preview/screenshot.png)
+![Todo App Screenshot](./preview/Screenshot.png)
 
 ## 💡 Features
 
@@ -57,6 +57,8 @@ By building and analyzing this project, you will:
 ---
 
 ## 📂 Project Structure
+
+```
 todoapp/
 ├── src/
 │ ├── components/
